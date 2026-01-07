@@ -1,0 +1,27 @@
+@media only screen and (max-width: 480px){
+    #sec1{
+        
+        flex-direction: column;
+        .info {
+            width: 100% !important;
+            padding: 2rem !important;
+            h2{
+                width: 100% !important;
+                font-size: 30px !important;
+            }
+            p{
+                width: 100% !important;
+            }
+            button{
+                width: 100% !important;
+            }
+            .main-imagen{
+                justify-content: center !important;
+                width: 100% !important;
+                img{
+                    width: 100% !important;
+                }
+            }
+        }
+    }
+}
